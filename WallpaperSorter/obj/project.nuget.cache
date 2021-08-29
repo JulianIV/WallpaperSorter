@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZotlKCZjXtl3xHXubPRnv1yCa5+6k1/d0oTSx2jmfAM93YEcf1OGxHOZldlAszu0VCBPoJBoD6Rqg01ks7rn2Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julia\\source\\repos\\WallpaperSorter\\WallpaperSorter\\WallpaperSorter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julia\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

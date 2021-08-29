@@ -1,0 +1,8 @@
+C:\Users\julia\source\repos\WallpaperSorter\WallpaperSorter\bin\Release\netcoreapp3.1\publish\Settings\Settings.json
+C:\Users\julia\source\repos\WallpaperSorter\WallpaperSorter\bin\Release\netcoreapp3.1\publish\WallpaperSorter.exe
+C:\Users\julia\source\repos\WallpaperSorter\WallpaperSorter\bin\Release\netcoreapp3.1\publish\WallpaperSorter.dll
+C:\Users\julia\source\repos\WallpaperSorter\WallpaperSorter\bin\Release\netcoreapp3.1\publish\WallpaperSorter.deps.json
+C:\Users\julia\source\repos\WallpaperSorter\WallpaperSorter\bin\Release\netcoreapp3.1\publish\WallpaperSorter.runtimeconfig.json
+C:\Users\julia\source\repos\WallpaperSorter\WallpaperSorter\bin\Release\netcoreapp3.1\publish\WallpaperSorter.dll.config
+C:\Users\julia\source\repos\WallpaperSorter\WallpaperSorter\bin\Release\netcoreapp3.1\publish\WallpaperSorter.pdb
+C:\Users\julia\source\repos\WallpaperSorter\WallpaperSorter\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
