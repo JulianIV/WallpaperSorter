@@ -20,4 +20,5 @@ C:\Users\julia\source\repos\WallpaperSorter\WallpaperSorter\obj\Debug\netcoreapp
 C:\Users\julia\source\repos\WallpaperSorter\WallpaperSorter\obj\Debug\netcoreapp3.1\WallpaperSorter.dll
 C:\Users\julia\source\repos\WallpaperSorter\WallpaperSorter\obj\Debug\netcoreapp3.1\WallpaperSorter.pdb
 C:\Users\julia\source\repos\WallpaperSorter\WallpaperSorter\obj\Debug\netcoreapp3.1\WallpaperSorter.genruntimeconfig.cache
-C:\Users\julia\source\repos\WallpaperSorter\WallpaperSorter\obj\Debug\netcoreapp3.1\WallpaperSorter.csprojAssemblyReference.cache
+C:\Users\julia\source\repos\WallpaperSorter\WallpaperSorter\obj\Debug\netcoreapp3.1\WallpaperSorter.csproj.AssemblyReference.cache
+C:\Users\julia\source\repos\WallpaperSorter\WallpaperSorter\obj\Debug\netcoreapp3.1\WallpaperSorter.GeneratedMSBuildEditorConfig.editorconfig

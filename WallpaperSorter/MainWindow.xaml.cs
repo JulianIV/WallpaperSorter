@@ -96,6 +96,9 @@ namespace WallpaperSorter
             WallpaperName.Content = wallpaperFileInfo.Name;
             UnsortedWallpaperView.Source = bitmapSource;
             Dimensions.Content = $"Width: {bitmapSource.PixelWidth}px, Height: {bitmapSource.PixelHeight}px, X-DPI: {bitmapSource.DpiX}, Y-DPI: {bitmapSource.DpiY}";
+            
+            if (bitmapSource.PixelWidth < 1920 || bitmapSource.PixelHeight < 1080)
+                DimensionsLowRes.Content = $"Image is low res!!!";
         }
 
         private void SetFittingDimensions(BitmapImage bitmapSource)
@@ -117,13 +120,11 @@ namespace WallpaperSorter
 
         private void SetGenreRadioButtons()
         {
-            foreach(var genre in settings.Genres)
+            foreach(var genre in settings.Genres.Select(g => new DirectoryInfo(g).Name).OrderBy(c => c))
             {
-                var name = new DirectoryInfo(genre).Name;
-
                 var radioButton = new RadioButton
                 {
-                    Content = name,
+                    Content = genre,
                     FontSize = 20,
                     Cursor = Cursors.Hand,
                     Margin = new Thickness(0, 0, 0, 5),

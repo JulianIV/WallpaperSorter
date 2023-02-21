@@ -30,5 +30,6 @@
         <Label Name="ProcesssingLabel" Content="" HorizontalAlignment="Center" VerticalAlignment="Center" RenderTransformOrigin="0.184,1.408" Width="834" FontSize="20" HorizontalContentAlignment="Center"/>
         <Label Content="" HorizontalAlignment="Left" Margin="1283,32,0,0" VerticalAlignment="Top" Width="358" Name="ShowShiftKeyDown" FontWeight="Bold" Foreground="Red" FontSize="16"/>
         <Label Content="" HorizontalAlignment="Left" Margin="1283,7,0,0" VerticalAlignment="Top" Width="534" x:Name="Dimensions" FontSize="16"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="1120,7,0,0" VerticalAlignment="Top" Width="534" x:Name="DimensionsLowRes" FontSize="16" FontWeight="Bold" Foreground="Red"/>
     </Grid>
 </Window>
